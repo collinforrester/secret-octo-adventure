@@ -32,7 +32,7 @@
 
 - (void)testCreateBirdSightingWithName {
     BirdSighting *birdSighting = [[BirdSighting alloc] initWithName:@"Cardinal"];
-    STAssertEquals(birdSighting.name, @"Cardinal", @"Bird Sighting Name should be Cardinal");
+    STAssertEquals(birdSighting.name, @"Cardnal", @"Bird Sighting Name should be Cardinal");
 }
 
 @end
