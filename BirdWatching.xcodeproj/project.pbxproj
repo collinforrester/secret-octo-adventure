@@ -392,6 +392,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -406,6 +407,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -420,6 +422,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -428,6 +431,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -437,10 +441,12 @@
 		61C077C41684B41300DA8FA7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BirdWatching/BirdWatching-Prefix.pch";
 				INFOPLIST_FILE = "BirdWatching/BirdWatching-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -448,10 +454,12 @@
 		61C077C51684B41300DA8FA7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BirdWatching/BirdWatching-Prefix.pch";
 				INFOPLIST_FILE = "BirdWatching/BirdWatching-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +468,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/BirdWatching.app/BirdWatching";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
 					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
@@ -468,6 +477,7 @@
 				GCC_PREFIX_HEADER = "BirdWatching/BirdWatching-Prefix.pch";
 				INFOPLIST_FILE = "BirdWatchingTests/BirdWatchingTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -477,6 +487,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/BirdWatching.app/BirdWatching";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Collin Forrester (T52CQLW5GG)";
 				FRAMEWORK_SEARCH_PATHS = (
 					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
 					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
@@ -485,6 +496,7 @@
 				GCC_PREFIX_HEADER = "BirdWatching/BirdWatching-Prefix.pch";
 				INFOPLIST_FILE = "BirdWatchingTests/BirdWatchingTests-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "865353FD-0946-48A9-8BC3-89171F96334B";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -509,6 +521,7 @@
 				61C077C51684B41300DA8FA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		61C077C61684B41300DA8FA7 /* Build configuration list for PBXNativeTarget "BirdWatchingTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +530,7 @@
 				61C077C81684B41300DA8FA7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
