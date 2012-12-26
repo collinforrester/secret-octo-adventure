@@ -1,0 +1,369 @@
+TBirdWatching
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist
+cProcessPCH /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching normal i386
+cGenerateDSYMFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching
+cCopyStringsFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings
+cCpResource BirdWatching/Default.png build/Release-iphonesimulator/BirdWatching.app/Default.png
+cCpResource BirdWatching/Default@2x.png build/Release-iphonesimulator/BirdWatching.app/Default@2x.png
+cCpResource BirdWatching/Default-568h@2x.png build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png
+cCompileStoryboard /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard
+cCompileStoryboard /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard
+cTouch /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506473F70000000000228FD0
+t1348760567
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000506473F900000000003DCEF0
+t1348760569
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000506473F800000000000015F7
+t1348760568
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506473FD0000000000000E8D
+t1348760573
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506473FF0000000000AB3D60
+t1348760575
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c000000005064740D0000000000001B54
+t1348760589
+s6996
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m
+c0000000050D4839F000000000000023F
+t1356104607
+s575
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch
+c0000000050D47C930000000000000147
+t1356102803
+s327
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m
+c0000000050D47C93000000000000097A
+t1356102803
+s2426
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m
+c0000000050D47C930000000000000839
+t1356102803
+s2105
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m
+c0000000050D47C930000000000000FBC
+t1356102803
+s4028
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/InfoPlist.strings
+c0000000050D47C93000000000000002D
+t1356102803
+s45
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard
+c0000000050D47C930000000000002668
+t1356102803
+s9832
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard
+c0000000050D47C930000000000001F11
+t1356102803
+s7953
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m
+c0000000050D47C93000000000000016A
+t1356102803
+s362
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdWatching.LinkFileList
+c0000000050D485FB0000000000000322
+t1356105211
+s802
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default.png
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default@2x.png
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Info.plist
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/PkgInfo
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth
+t2
+s0
+
+NBirdWatching/BirdWatching-Info.plist
+c0000000050D47C93000000000000070B
+t1356102803
+s1803
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0af7f27abd84b641^1b830a7bbd84b641^---0#1#0#--18"Check dependencies36"32E0A3F3-E4F7-4B3E-97B0-274FA8A3B04A-
+
+CCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.531406
+e377798011.604135
+r1
+xCompileC
+xbuild/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.mff41887bbd84b641^fca89a7bbd84b641^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m0000000000000000^3719"CompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o BirdWatching/BirdSighting.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.d --serialize-diagnostics /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdSighting.m -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdSighting.o36"2A456A8F-D119-4695-8A2C-31CC926ABE5C-
+
+CCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.369348
+e377798011.557251
+r1
+xCompileC
+xbuild/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m8cbe5e7bbd84b641^1a358f7bbd84b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m0000000000000000^3743"CompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o BirdWatching/BirdsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.d --serialize-diagnostics /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsAppDelegate.m -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsAppDelegate.o36"3355E2A0-3E95-4DB8-84AA-7F416C4A6CF1-
+
+CCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.369452
+e377798011.556996
+r1
+xCompileC
+xbuild/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m66bf5e7bbd84b641^35b38e7bbd84b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m0000000000000000^3797"CompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o BirdWatching/BirdsDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.d --serialize-diagnostics /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsDetailViewController.m -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsDetailViewController.o36"90FAF803-5B12-4F6A-ACB3-6059AAAEBCAC-
+
+CCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.369351
+e377798011.565379
+r1
+xCompileC
+xbuild/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.me0be5e7bbd84b641^8cbc907bbd84b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m0000000000000000^3797"CompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o BirdWatching/BirdsMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.d --serialize-diagnostics /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdsMasterViewController.m -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdsMasterViewController.o36"D0C0E950-024A-4298-A573-F83CC5903AE1-
+
+CCompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.369292
+e377798011.530059
+r1
+xCompileC
+xbuild/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.me0be5e7bbd84b641^e7c3877bbd84b641^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m0000000000000000^3671"CompileC build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o BirdWatching/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch -MMD -MT dependencies -MF /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/main.m -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/main.o36"5A470119-68D8-4D87-B315-7112CE5423B2-
+
+CCompileStoryboard /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard
+s377798011.702199
+e377798013.914023
+r1
+xCompileStoryboard
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard
+o2012-12-21 09:53:33.186 Interface Builder Cocoa Touch Tool[77119:14c03] CFPreferences: user home directory at file://localhost/Users/igen721/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard BirdWatching/en.lproj/MainStoryboard_iPad.storyboard15e0b37bbd84b641^ec69eb7dbd84b641^-242"2012-12-21 09:53:33.186 Interface Builder Cocoa Touch Tool[77119:14c03] CFPreferences: user home directory at file://localhost/Users/igen721/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^823"CompileStoryboard BirdWatching/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"C969F443-EBA2-405F-B9EA-BAD1A0A253DD-
+
+CCompileStoryboard /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard
+s377798011.702203
+e377798013.880549
+r1
+xCompileStoryboard
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard
+o2012-12-21 09:53:33.211 Interface Builder Cocoa Touch Tool[77118:14c03] CFPreferences: user home directory at file://localhost/Users/igen721/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"CompileStoryboard BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard4cdfb37bbd84b641^bf7de17dbd84b641^-242"2012-12-21 09:53:33.211 Interface Builder Cocoa Touch Tool[77118:14c03] CFPreferences: user home directory at file://localhost/Users/igen721/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^829"CompileStoryboard BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"E7C1C308-B525-449F-9E59-F344C8CF56F0-
+
+CCopyStringsFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings
+s377798011.697713
+e377798011.703394
+r1
+xCopyStringsFile
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings
+xBirdWatching/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy BirdWatching/en.lproj/InfoPlist.strings11c3b27bbd84b641^f112b47bbd84b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/en.lproj/InfoPlist.strings0000000000000000^432"CopyStringsFile build/Release-iphonesimulator/BirdWatching.app/en.lproj/InfoPlist.strings BirdWatching/en.lproj/InfoPlist.strings    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/en.lproj -- BirdWatching/en.lproj/InfoPlist.strings36"E8D14BE9-56A2-469F-ADD0-1579588030F8-
+
+CCpResource BirdWatching/Default-568h@2x.png build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png
+s377798011.698279
+e377798011.703931
+r1
+xCpResource
+xBirdWatching/Default-568h@2x.png
+xbuild/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png13d6b27bbd84b641^9c35b47bbd84b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png000000000080d041^601"CpResource "BirdWatching/Default-568h@2x.png" "build/Release-iphonesimulator/BirdWatching.app/Default-568h@2x.png"    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default-568h@2x.png" /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app36"A3FD831F-BE6A-442B-A7FD-3D95A7D578AC-
+
+CCpResource BirdWatching/Default.png build/Release-iphonesimulator/BirdWatching.app/Default.png
+s377798011.697718
+e377798011.701505
+r1
+xCpResource
+xBirdWatching/Default.png
+xbuild/Release-iphonesimulator/BirdWatching.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/BirdWatching.app/Default.png83c0b27bbd84b641^af96b37bbd84b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default.png000000000080d041^571"CpResource BirdWatching/Default.png build/Release-iphonesimulator/BirdWatching.app/Default.png    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default.png /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app36"C93B8F6B-E6FB-419A-9D4A-733A61757A8F-
+
+CCpResource BirdWatching/Default@2x.png build/Release-iphonesimulator/BirdWatching.app/Default@2x.png
+s377798011.697729
+e377798011.700999
+r1
+xCpResource
+xBirdWatching/Default@2x.png
+xbuild/Release-iphonesimulator/BirdWatching.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Release-iphonesimulator/BirdWatching.app/Default@2x.png9dbeb27bbd84b641^6475b37bbd84b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Default@2x.png000000000080d041^586"CpResource "BirdWatching/Default@2x.png" "build/Release-iphonesimulator/BirdWatching.app/Default@2x.png"    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/Default@2x.png" /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app36"500D1BDA-0C6E-4246-B8C1-25A6DD659868-
+
+CGenerateDSYMFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching
+s377798011.656550
+e377798011.688513
+r1
+xGenerateDSYMFile
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Generating /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYMb727a87bbd84b641^7442b07bbd84b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM000000000080d041^510"GenerateDSYMFile build/Release-iphonesimulator/BirdWatching.app.dSYM build/Release-iphonesimulator/BirdWatching.app/BirdWatching    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app.dSYM36"50DB9F84-C479-4CB3-B2FA-CAE1EA213314-
+
+CLd /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching normal i386
+s377798011.611673
+e377798011.649665
+r1
+xLd
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Link /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching64ae9c7bbd84b641^f850a67bbd84b641^---0#0#0#--1067"Ld build/Release-iphonesimulator/BirdWatching.app/BirdWatching normal i386    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -filelist /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/Objects-normal/i386/BirdWatching.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/BirdWatching36"2D601C21-6D9C-4337-81D8-3C2793ACD0FF-
+
+CProcessInfoPlistFile /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist
+s377798011.049934
+e377798011.054641
+r1
+xProcessInfoPlistFile
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Info.plist
+xBirdWatching/BirdWatching-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process BirdWatching/BirdWatching-Info.plistfce00c7bbd84b641^8bfd0d7bbd84b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdWatching-Info.plist0000000000000000^538"ProcessInfoPlistFile build/Release-iphonesimulator/BirdWatching.app/Info.plist BirdWatching/BirdWatching-Info.plist    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    builtin-infoPlistUtility BirdWatching/BirdWatching-Info.plist -genpkginfo /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app/Info.plist36"949B15C0-7990-465D-930D-D66B74F60525-
+
+CProcessPCH /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s377798011.063748
+e377798011.361050
+r1
+xProcessPCH
+x/var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth
+xBirdWatching/BirdWatching-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile BirdWatching/BirdWatching-Prefix.pcha778107bbd84b641^65705c7bbd84b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch0000000000000000^3700"ProcessPCH /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth BirdWatching/BirdWatching-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-generated-files.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-own-target-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-all-target-headers.hmap -iquote /Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/BirdWatching-project-headers.hmap -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources/i386 -I/Users/igen721/Documents/workspaces/ios/BirdWatching/build/BirdWatching.build/Release-iphonesimulator/BirdWatching.build/DerivedSources -F/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.dia -c /Users/igen721/Documents/workspaces/ios/BirdWatching/BirdWatching/BirdWatching-Prefix.pch -o /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/gd/ld6f8lg12j1303njl9dm57t9xpdmss/C/com.apple.Xcode.2070336313/SharedPrecompiledHeaders/BirdWatching-Prefix-cdxdvawdgywzwjceucptlncruepn/BirdWatching-Prefix.pch.d36"4DAE78FA-93E2-4E9C-9B08-6E6EF7685E8C-
+
+CTouch /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app
+s377798013.928355
+e377798013.951019
+r1
+xTouch
+x/Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app9cc3ed7dbd84b641^3a77f37dbd84b641^---0#0#0#--235"Touch build/Release-iphonesimulator/BirdWatching.app    cd /Users/igen721/Documents/workspaces/ios/BirdWatching    /usr/bin/touch -c /Users/igen721/Documents/workspaces/ios/BirdWatching/build/Release-iphonesimulator/BirdWatching.app36"98635D9D-F56F-4EAA-AA98-34515161F895-
+
